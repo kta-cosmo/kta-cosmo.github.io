@@ -1,1 +1,0 @@
-# kta-cosmo.github.io
