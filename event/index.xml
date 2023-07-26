@@ -5,7 +5,7 @@
     <link>https://kta-cosmo.github.io/event/</link>
       <atom:link href="https://kta-cosmo.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © Katsuya Abe All rights reserved.</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Jun 2023 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kta-cosmo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
@@ -13,22 +13,23 @@
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>https://kta-cosmo.github.io/talk/example-talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://kta-cosmo.github.io/talk/example-talk/</guid>
+      <title>Cosmological contribution from Population III stars in ultracompact minihalos</title>
+      <link>https://kta-cosmo.github.io/talk/cosmological-contribution-from-population-iii-stars-in-ultracompact-minihalos/</link>
+      <pubDate>Tue, 06 Jun 2023 13:00:00 +0000</pubDate>
+      <guid>https://kta-cosmo.github.io/talk/cosmological-contribution-from-population-iii-stars-in-ultracompact-minihalos/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+&lt;!--Slides can be added in a few ways:--&gt;
+&lt;!----&gt;
+&lt;!--- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file--&gt;
+&lt;!--- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file--&gt;
+&lt;!--- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://drive.google.com/file/d/1I4R4FKI-jLzv0ZUh6QtR2zkp_XzYcvQ6/view?usp=drive_link/).--&gt;
+&lt;!----&gt;
+&lt;!--Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.--&gt;
+&lt;!----&gt;
 </description>
     </item>
     

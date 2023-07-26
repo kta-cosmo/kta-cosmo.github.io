@@ -5,7 +5,7 @@
     <link>https://kta-cosmo.github.io/publication/</link>
       <atom:link href="https://kta-cosmo.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © Katsuya Abe All rights reserved.</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kta-cosmo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,55 +13,83 @@
     </image>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://kta-cosmo.github.io/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://kta-cosmo.github.io/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Translating nano-Hertz gravitational wave background into primordial perturbations taking account of the cosmological QCD phase transition</title>
+      <link>https://kta-cosmo.github.io/publication/2023-ar-xiv-230701653-a/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://kta-cosmo.github.io/publication/2023-ar-xiv-230701653-a/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>https://kta-cosmo.github.io/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://kta-cosmo.github.io/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Primordial black holes and gravitational waves induced by exponential-tailed perturbations</title>
+      <link>https://kta-cosmo.github.io/publication/2023-jcap-05-044-a/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://kta-cosmo.github.io/publication/2023-jcap-05-044-a/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://kta-cosmo.github.io/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://kta-cosmo.github.io/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Cosmological contribution from population III stars in ultracompact minihalos</title>
+      <link>https://kta-cosmo.github.io/publication/2022-ph-rv-d-106-h-3521-a/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://kta-cosmo.github.io/publication/2022-ph-rv-d-106-h-3521-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cosmological free-free emission from dark matter halos in the ensuremathŁambda CDM model</title>
+      <link>https://kta-cosmo.github.io/publication/2022-ph-rv-d-106-f-3523-a/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://kta-cosmo.github.io/publication/2022-ph-rv-d-106-f-3523-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constraint on the early-formed dark matter halos using the free-free emission in the Planck foreground analysis</title>
+      <link>https://kta-cosmo.github.io/publication/2022-ph-rv-d-105-f-3531-a/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://kta-cosmo.github.io/publication/2022-ph-rv-d-105-f-3531-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Free-free background radiation from accreting primordial black holes</title>
+      <link>https://kta-cosmo.github.io/publication/2021-ar-xiv-210801916-t/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://kta-cosmo.github.io/publication/2021-ar-xiv-210801916-t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Induced gravitational waves as a cosmological probe of the sound speed during the QCD phase transition</title>
+      <link>https://kta-cosmo.github.io/publication/2021-jcap-06-048-a/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://kta-cosmo.github.io/publication/2021-jcap-06-048-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Population III star explosions and Planck 2018 data</title>
+      <link>https://kta-cosmo.github.io/publication/2021-ph-rv-d-103-l-3543-a/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://kta-cosmo.github.io/publication/2021-ph-rv-d-103-l-3543-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The 21-cm signals from ultracompact minihaloes as a probe of primordial small-scale fluctuations</title>
+      <link>https://kta-cosmo.github.io/publication/2020-mnras-494-4334-f/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://kta-cosmo.github.io/publication/2020-mnras-494-4334-f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermal Sunyaev-Zel&#39;dovich anisotropy due to primordial black holes</title>
+      <link>https://kta-cosmo.github.io/publication/2019-ph-rv-d-99-j-3519-a/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://kta-cosmo.github.io/publication/2019-ph-rv-d-99-j-3519-a/</guid>
+      <description></description>
     </item>
     
   </channel>
