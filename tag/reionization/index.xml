@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reionization | KTA page</title>
+    <link>https://kta-cosmo.github.io/tag/reionization/</link>
+      <atom:link href="https://kta-cosmo.github.io/tag/reionization/index.xml" rel="self" type="application/rss+xml" />
+    <description>reionization</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © Katsuya Abe All rights reserved.</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kta-cosmo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>reionization</title>
+      <link>https://kta-cosmo.github.io/tag/reionization/</link>
+    </image>
+    
+    <item>
+      <title>The 21-cm signals from ultracompact minihaloes as a probe of primordial small-scale fluctuations</title>
+      <link>https://kta-cosmo.github.io/publication/2020-mnras-494-4334-f/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://kta-cosmo.github.io/publication/2020-mnras-494-4334-f/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PBHs | KTA page</title>
+    <link>https://kta-cosmo.github.io/tag/pbhs/</link>
+      <atom:link href="https://kta-cosmo.github.io/tag/pbhs/index.xml" rel="self" type="application/rss+xml" />
+    <description>PBHs</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © Katsuya Abe All rights reserved.</copyright><lastBuildDate>Wed, 25 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kta-cosmo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>PBHs</title>
+      <link>https://kta-cosmo.github.io/tag/pbhs/</link>
+    </image>
+    
+    <item>
+      <title>CMB anisotropies on small scales induced by Primordial black holes</title>
+      <link>https://kta-cosmo.github.io/thesis/master/</link>
+      <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://kta-cosmo.github.io/thesis/master/</guid>
+      <description>&lt;p&gt;Division of Particle and Astrophysical Science,&lt;br&gt;
+Graduate School of Science, Nagoya University.&lt;br&gt;
+Supervisor: Dr. Kiyotomo Ichiki&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
