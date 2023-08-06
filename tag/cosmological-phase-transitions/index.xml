@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cosmological phase transitions | KTA page</title>
+    <link>https://kta-cosmo.github.io/tag/cosmological-phase-transitions/</link>
+      <atom:link href="https://kta-cosmo.github.io/tag/cosmological-phase-transitions/index.xml" rel="self" type="application/rss+xml" />
+    <description>cosmological phase transitions</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © Katsuya Abe All rights reserved.</copyright><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kta-cosmo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>cosmological phase transitions</title>
+      <link>https://kta-cosmo.github.io/tag/cosmological-phase-transitions/</link>
+    </image>
+    
+    <item>
+      <title>Induced gravitational waves as a cosmological probe of the sound speed during the QCD phase transition</title>
+      <link>https://kta-cosmo.github.io/publication/2021-jcap-06-048-a/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://kta-cosmo.github.io/publication/2021-jcap-06-048-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
