@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://kta-cosmo.github.io/sitemap.xml
