@@ -5,7 +5,7 @@
     <link>https://kta-cosmo.github.io/event/</link>
       <atom:link href="https://kta-cosmo.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © Katsuya Abe All rights reserved.</copyright><lastBuildDate>Tue, 06 Jun 2023 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © Katsuya Abe All rights reserved.</copyright><lastBuildDate>Wed, 20 Sep 2023 15:06:00 +0000</lastBuildDate>
     <image>
       <url>https://kta-cosmo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
@@ -13,10 +13,73 @@
     </image>
     
     <item>
+      <title>Probing Small-Scale Perturbations through Free-Free Emission from Dark Matter Halos</title>
+      <link>https://kta-cosmo.github.io/talk/probing-small-scale-perturbations-through-free-free-emission-from-dark-matter-halos/</link>
+      <pubDate>Wed, 20 Sep 2023 15:06:00 +0000</pubDate>
+      <guid>https://kta-cosmo.github.io/talk/probing-small-scale-perturbations-through-free-free-emission-from-dark-matter-halos/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!--Slides can be added in a few ways:--&gt;
+&lt;!----&gt;
+&lt;!--- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file--&gt;
+&lt;!--- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file--&gt;
+&lt;!--- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://drive.google.com/file/d/1I4R4FKI-jLzv0ZUh6QtR2zkp_XzYcvQ6/view?usp=drive_link/).--&gt;
+&lt;!----&gt;
+&lt;!--Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.--&gt;
+&lt;!----&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Probing Small-Scale Perturbations through Free-Free Emission from Dark Matter Halos</title>
+      <link>https://kta-cosmo.github.io/talk/probing-small-scale-perturbations-through-free-free-emission-from-dark-matter-halos/</link>
+      <pubDate>Tue, 12 Sep 2023 15:00:00 +0000</pubDate>
+      <guid>https://kta-cosmo.github.io/talk/probing-small-scale-perturbations-through-free-free-emission-from-dark-matter-halos/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!--Slides can be added in a few ways:--&gt;
+&lt;!----&gt;
+&lt;!--- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file--&gt;
+&lt;!--- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file--&gt;
+&lt;!--- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://drive.google.com/file/d/1I4R4FKI-jLzv0ZUh6QtR2zkp_XzYcvQ6/view?usp=drive_link/).--&gt;
+&lt;!----&gt;
+&lt;!--Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.--&gt;
+&lt;!----&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Cosmological contribution from Population III stars in ultracompact minihalos</title>
       <link>https://kta-cosmo.github.io/talk/cosmological-contribution-from-population-iii-stars-in-ultracompact-minihalos/</link>
       <pubDate>Tue, 06 Jun 2023 13:00:00 +0000</pubDate>
       <guid>https://kta-cosmo.github.io/talk/cosmological-contribution-from-population-iii-stars-in-ultracompact-minihalos/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!--Slides can be added in a few ways:--&gt;
+&lt;!----&gt;
+&lt;!--- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file--&gt;
+&lt;!--- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file--&gt;
+&lt;!--- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://drive.google.com/file/d/1I4R4FKI-jLzv0ZUh6QtR2zkp_XzYcvQ6/view?usp=drive_link/).--&gt;
+&lt;!----&gt;
+&lt;!--Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.--&gt;
+&lt;!----&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Constraint on the dark matter halo formation in the early universe by the free-free emission</title>
+      <link>https://kta-cosmo.github.io/talk/constraint-on-the-dark-matter-halo-formation-in-the-early-universe-by-the-free-free-emission/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://kta-cosmo.github.io/talk/constraint-on-the-dark-matter-halo-formation-in-the-early-universe-by-the-free-free-emission/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.

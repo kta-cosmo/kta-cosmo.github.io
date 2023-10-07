@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dark matter halos | KTA page</title>
+    <link>https://kta-cosmo.github.io/tag/dark-matter-halos/</link>
+      <atom:link href="https://kta-cosmo.github.io/tag/dark-matter-halos/index.xml" rel="self" type="application/rss+xml" />
+    <description>dark matter halos</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © Katsuya Abe All rights reserved.</copyright><lastBuildDate>Wed, 20 Sep 2023 15:06:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kta-cosmo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>dark matter halos</title>
+      <link>https://kta-cosmo.github.io/tag/dark-matter-halos/</link>
+    </image>
+    
+    <item>
+      <title>Probing Small-Scale Perturbations through Free-Free Emission from Dark Matter Halos</title>
+      <link>https://kta-cosmo.github.io/talk/probing-small-scale-perturbations-through-free-free-emission-from-dark-matter-halos/</link>
+      <pubDate>Wed, 20 Sep 2023 15:06:00 +0000</pubDate>
+      <guid>https://kta-cosmo.github.io/talk/probing-small-scale-perturbations-through-free-free-emission-from-dark-matter-halos/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!--Slides can be added in a few ways:--&gt;
+&lt;!----&gt;
+&lt;!--- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file--&gt;
+&lt;!--- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file--&gt;
+&lt;!--- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://drive.google.com/file/d/1I4R4FKI-jLzv0ZUh6QtR2zkp_XzYcvQ6/view?usp=drive_link/).--&gt;
+&lt;!----&gt;
+&lt;!--Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.--&gt;
+&lt;!----&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Probing Small-Scale Perturbations through Free-Free Emission from Dark Matter Halos</title>
+      <link>https://kta-cosmo.github.io/talk/probing-small-scale-perturbations-through-free-free-emission-from-dark-matter-halos/</link>
+      <pubDate>Tue, 12 Sep 2023 15:00:00 +0000</pubDate>
+      <guid>https://kta-cosmo.github.io/talk/probing-small-scale-perturbations-through-free-free-emission-from-dark-matter-halos/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!--Slides can be added in a few ways:--&gt;
+&lt;!----&gt;
+&lt;!--- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file--&gt;
+&lt;!--- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file--&gt;
+&lt;!--- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://drive.google.com/file/d/1I4R4FKI-jLzv0ZUh6QtR2zkp_XzYcvQ6/view?usp=drive_link/).--&gt;
+&lt;!----&gt;
+&lt;!--Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.--&gt;
+&lt;!----&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

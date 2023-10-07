@@ -13,6 +13,48 @@
     </image>
     
     <item>
+      <title>Probing Small-Scale Perturbations through Free-Free Emission from Dark Matter Halos</title>
+      <link>https://kta-cosmo.github.io/talk/probing-small-scale-perturbations-through-free-free-emission-from-dark-matter-halos/</link>
+      <pubDate>Wed, 20 Sep 2023 15:06:00 +0000</pubDate>
+      <guid>https://kta-cosmo.github.io/talk/probing-small-scale-perturbations-through-free-free-emission-from-dark-matter-halos/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!--Slides can be added in a few ways:--&gt;
+&lt;!----&gt;
+&lt;!--- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file--&gt;
+&lt;!--- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file--&gt;
+&lt;!--- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://drive.google.com/file/d/1I4R4FKI-jLzv0ZUh6QtR2zkp_XzYcvQ6/view?usp=drive_link/).--&gt;
+&lt;!----&gt;
+&lt;!--Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.--&gt;
+&lt;!----&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Probing Small-Scale Perturbations through Free-Free Emission from Dark Matter Halos</title>
+      <link>https://kta-cosmo.github.io/talk/probing-small-scale-perturbations-through-free-free-emission-from-dark-matter-halos/</link>
+      <pubDate>Tue, 12 Sep 2023 15:00:00 +0000</pubDate>
+      <guid>https://kta-cosmo.github.io/talk/probing-small-scale-perturbations-through-free-free-emission-from-dark-matter-halos/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!--Slides can be added in a few ways:--&gt;
+&lt;!----&gt;
+&lt;!--- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file--&gt;
+&lt;!--- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file--&gt;
+&lt;!--- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://drive.google.com/file/d/1I4R4FKI-jLzv0ZUh6QtR2zkp_XzYcvQ6/view?usp=drive_link/).--&gt;
+&lt;!----&gt;
+&lt;!--Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.--&gt;
+&lt;!----&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Translating nano-Hertz gravitational wave background into primordial perturbations taking account of the cosmological QCD phase transition</title>
       <link>https://kta-cosmo.github.io/publication/2023-ar-xiv-230701653-a/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
@@ -94,6 +136,27 @@ Dr. Tsutomu Takeuchi (Examnier)&lt;/p&gt;
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://kta-cosmo.github.io/publication/2021-ar-xiv-210801916-t/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Constraint on the dark matter halo formation in the early universe by the free-free emission</title>
+      <link>https://kta-cosmo.github.io/talk/constraint-on-the-dark-matter-halo-formation-in-the-early-universe-by-the-free-free-emission/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://kta-cosmo.github.io/talk/constraint-on-the-dark-matter-halo-formation-in-the-early-universe-by-the-free-free-emission/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!--Slides can be added in a few ways:--&gt;
+&lt;!----&gt;
+&lt;!--- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file--&gt;
+&lt;!--- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file--&gt;
+&lt;!--- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://drive.google.com/file/d/1I4R4FKI-jLzv0ZUh6QtR2zkp_XzYcvQ6/view?usp=drive_link/).--&gt;
+&lt;!----&gt;
+&lt;!--Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.--&gt;
+&lt;!----&gt;
+</description>
     </item>
     
     <item>
@@ -315,7 +378,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-318754692&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-281659374&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -325,7 +388,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-318754692&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-281659374&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
